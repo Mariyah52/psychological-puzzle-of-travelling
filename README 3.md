@@ -14,7 +14,7 @@ transport, particularly within the context of a megacity like Karachi.
 
 **Keywords:** Psychological Puzzle, Travelling, Thoughts, Traffic
 
-## Publication
+## Publication.
 
 This paper was presented at the **National Conference on Managing Mega Cities (NCMMC),
 University of Karachi**, 14–15 May 2024, and is published in the official conference
